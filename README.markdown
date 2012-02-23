@@ -1,3 +1,10 @@
+**Please note** that this is `org.clojars.jedahu/clojure-saxon`. The
+intention is that it exist for only a short while until `clojure-saxon` is
+sorted out. [ring-xslt] depends on it, but that too should be temporary. See
+<https://github.com/pjt/saxon/pull/4> for more information.
+
+[ring-xslt]: http://jedahu.github.com/ring-xslt/
+
 Saxon
 =====
 
